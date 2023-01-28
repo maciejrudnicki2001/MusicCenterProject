@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/maciejrudnicki2001.github.io/MusicCenterProject/static/css/main.d9b5c3a1.css",
-    "main.js": "/maciejrudnicki2001.github.io/MusicCenterProject/static/js/main.4252481c.js",
-    "static/media/logo.png": "/maciejrudnicki2001.github.io/MusicCenterProject/static/media/logo.3ce88fe5f8725b4c3df4.png",
-    "index.html": "/maciejrudnicki2001.github.io/MusicCenterProject/index.html",
-    "static/media/shopping-bag-3-line.svg": "/maciejrudnicki2001.github.io/MusicCenterProject/static/media/shopping-bag-3-line.5133f274d323a0e1d8e2910db4dbaf8c.svg",
-    "static/media/user-line.svg": "/maciejrudnicki2001.github.io/MusicCenterProject/static/media/user-line.734029a98432c8d3e71cb43d74d30a68.svg",
-    "static/media/menu-fill.svg": "/maciejrudnicki2001.github.io/MusicCenterProject/static/media/menu-fill.052e3af09cdd24fec79b016863f195d6.svg",
-    "main.d9b5c3a1.css.map": "/maciejrudnicki2001.github.io/MusicCenterProject/static/css/main.d9b5c3a1.css.map",
-    "main.4252481c.js.map": "/maciejrudnicki2001.github.io/MusicCenterProject/static/js/main.4252481c.js.map"
+    "main.css": "/MusicCenterProject/static/css/main.d9b5c3a1.css",
+    "main.js": "/MusicCenterProject/static/js/main.485afa3a.js",
+    "static/media/logo.png": "/MusicCenterProject/static/media/logo.3ce88fe5f8725b4c3df4.png",
+    "index.html": "/MusicCenterProject/index.html",
+    "static/media/shopping-bag-3-line.svg": "/MusicCenterProject/static/media/shopping-bag-3-line.5133f274d323a0e1d8e2910db4dbaf8c.svg",
+    "static/media/user-line.svg": "/MusicCenterProject/static/media/user-line.734029a98432c8d3e71cb43d74d30a68.svg",
+    "static/media/menu-fill.svg": "/MusicCenterProject/static/media/menu-fill.052e3af09cdd24fec79b016863f195d6.svg",
+    "main.d9b5c3a1.css.map": "/MusicCenterProject/static/css/main.d9b5c3a1.css.map",
+    "main.485afa3a.js.map": "/MusicCenterProject/static/js/main.485afa3a.js.map"
   },
   "entrypoints": [
     "static/css/main.d9b5c3a1.css",
-    "static/js/main.4252481c.js"
+    "static/js/main.485afa3a.js"
   ]
 }
