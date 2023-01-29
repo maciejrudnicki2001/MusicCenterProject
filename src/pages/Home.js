@@ -1,10 +1,12 @@
 import React from "react";
-
+import ProductsList from "../components/UserInterface/ProductsList";
+import "../styles/home.css";
 const Home = () => {
     return (
-        <div>
-        <h1>Home Page</h1>
-        </div>
+        <section className='ProductsList'>
+            <h1>Products</h1>
+            <ProductsList />
+        </section>
     );
 }
 
