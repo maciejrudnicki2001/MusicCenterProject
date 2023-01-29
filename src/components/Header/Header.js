@@ -2,10 +2,10 @@ import React from "react";
 import "./header.css";
 
 import { NavLink } from "react-router-dom";
-import logo from "../../assets/images/logo.png";
-import menu from "../../assets/images/menu-fill.svg";
-import cart from "../../assets/images/shopping-bag-3-line.svg";
-import user from "../../assets/images/user-line.svg";
+import logo from "../../assets/images/icon_images/logo.png";
+import menu from "../../assets/images/icon_images/menu-fill.svg";
+import cart from "../../assets/images/icon_images/shopping-bag-3-line.svg";
+import user from "../../assets/images/icon_images/user-line.svg";
 import { Container, Row } from "reactstrap";
 
 const Header = () => {
