@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MusicCenterProject/static/css/main.4debfb23.css",
-    "main.js": "/MusicCenterProject/static/js/main.430f7ca7.js",
+    "main.js": "/MusicCenterProject/static/js/main.061b35c2.js",
     "static/media/Novation Launchpad Pro MK3.png": "/MusicCenterProject/static/media/Novation Launchpad Pro MK3.c56a72d2873d251fcb12.png",
     "static/media/Novation Launchpad Mini Mk3.png": "/MusicCenterProject/static/media/Novation Launchpad Mini Mk3.651a2ef777178b8f7f89.png",
     "static/media/Behringer X-USB.png": "/MusicCenterProject/static/media/Behringer X-USB.032c1201ca42f38d52ea.png",
@@ -28,10 +28,10 @@
     "static/media/user-line.svg": "/MusicCenterProject/static/media/user-line.734029a98432c8d3e71cb43d74d30a68.svg",
     "static/media/menu-fill.svg": "/MusicCenterProject/static/media/menu-fill.052e3af09cdd24fec79b016863f195d6.svg",
     "main.4debfb23.css.map": "/MusicCenterProject/static/css/main.4debfb23.css.map",
-    "main.430f7ca7.js.map": "/MusicCenterProject/static/js/main.430f7ca7.js.map"
+    "main.061b35c2.js.map": "/MusicCenterProject/static/js/main.061b35c2.js.map"
   },
   "entrypoints": [
     "static/css/main.4debfb23.css",
-    "static/js/main.430f7ca7.js"
+    "static/js/main.061b35c2.js"
   ]
 }
