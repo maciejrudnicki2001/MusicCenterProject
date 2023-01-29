@@ -1,17 +1,37 @@
 {
   "files": {
-    "main.css": "/MusicCenterProject/static/css/main.d9b5c3a1.css",
-    "main.js": "/MusicCenterProject/static/js/main.485afa3a.js",
+    "main.css": "/MusicCenterProject/static/css/main.4debfb23.css",
+    "main.js": "/MusicCenterProject/static/js/main.430f7ca7.js",
+    "static/media/Novation Launchpad Pro MK3.png": "/MusicCenterProject/static/media/Novation Launchpad Pro MK3.c56a72d2873d251fcb12.png",
+    "static/media/Novation Launchpad Mini Mk3.png": "/MusicCenterProject/static/media/Novation Launchpad Mini Mk3.651a2ef777178b8f7f89.png",
+    "static/media/Behringer X-USB.png": "/MusicCenterProject/static/media/Behringer X-USB.032c1201ca42f38d52ea.png",
+    "static/media/PRESAUDITWOSTUDIO.jpg": "/MusicCenterProject/static/media/PRESAUDITWOSTUDIO.66037f27a878d8fc503f.jpg",
+    "static/media/FENDER1.png": "/MusicCenterProject/static/media/FENDER1.8d5545c57a3b8675b423.png",
+    "static/media/drumkitbehri.png": "/MusicCenterProject/static/media/drumkitbehri.e9cea56be3081a759a4f.png",
+    "static/media/69035_9987.png": "/MusicCenterProject/static/media/69035_9987.16fc26e7c9e26be76aa2.png",
+    "static/media/65369_9552.png": "/MusicCenterProject/static/media/65369_9552.ae09004b50a9848f00c0.png",
+    "static/media/F415.jpg": "/MusicCenterProject/static/media/F415.df7f876aa3241404a9f3.jpg",
+    "static/media/EH10_TGM_1P_01.jpg": "/MusicCenterProject/static/media/EH10_TGM_1P_01.d16d647cc1d514aa1f17.jpg",
+    "static/media/Carter_Guitars_9051_BKS2574.jpg": "/MusicCenterProject/static/media/Carter_Guitars_9051_BKS2574.f3c035b01ef35a283067.jpg",
+    "static/media/Focusrite Scarlett 2i2 3Gen.jpg": "/MusicCenterProject/static/media/Focusrite Scarlett 2i2 3Gen.5165eb1c9bf8031b2491.jpg",
+    "static/media/marcusMiller1.jpg": "/MusicCenterProject/static/media/marcusMiller1.f2d27e7b1c3f0b373dda.jpg",
+    "static/media/Miditech Audiolink III LE 2.jpg": "/MusicCenterProject/static/media/Miditech Audiolink III LE 2.115577e9c8056d1bb910.jpg",
+    "static/media/Behringer UMC204HD,.jpg": "/MusicCenterProject/static/media/Behringer UMC204HD,.9f36cf66a4a9fa9b76c9.jpg",
     "static/media/logo.png": "/MusicCenterProject/static/media/logo.3ce88fe5f8725b4c3df4.png",
+    "static/media/Ibanez XPTB620 BKF-.png": "/MusicCenterProject/static/media/Ibanez XPTB620 BKF-.eb694cd5c160171cbe7f.png",
+    "static/media/E-II HORIZON FR-7 BTB.jpg": "/MusicCenterProject/static/media/E-II HORIZON FR-7 BTB.86476bfe50925e6e2234.jpg",
+    "static/media/carter1.jpeg": "/MusicCenterProject/static/media/carter1.d3fa1b80511d637c56dd.jpeg",
+    "static/media/Flash 5R Laser Gun.jpg": "/MusicCenterProject/static/media/Flash 5R Laser Gun.c52e0e1e40e65a784ca3.jpg",
+    "static/media/P7200011.jpg": "/MusicCenterProject/static/media/P7200011.92d575481602eab1b78b.jpg",
     "index.html": "/MusicCenterProject/index.html",
     "static/media/shopping-bag-3-line.svg": "/MusicCenterProject/static/media/shopping-bag-3-line.5133f274d323a0e1d8e2910db4dbaf8c.svg",
     "static/media/user-line.svg": "/MusicCenterProject/static/media/user-line.734029a98432c8d3e71cb43d74d30a68.svg",
     "static/media/menu-fill.svg": "/MusicCenterProject/static/media/menu-fill.052e3af09cdd24fec79b016863f195d6.svg",
-    "main.d9b5c3a1.css.map": "/MusicCenterProject/static/css/main.d9b5c3a1.css.map",
-    "main.485afa3a.js.map": "/MusicCenterProject/static/js/main.485afa3a.js.map"
+    "main.4debfb23.css.map": "/MusicCenterProject/static/css/main.4debfb23.css.map",
+    "main.430f7ca7.js.map": "/MusicCenterProject/static/js/main.430f7ca7.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9b5c3a1.css",
-    "static/js/main.485afa3a.js"
+    "static/css/main.4debfb23.css",
+    "static/js/main.430f7ca7.js"
   ]
 }
