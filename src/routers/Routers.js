@@ -8,11 +8,11 @@ import { Routes, Route } from 'react-router-dom';
 
 const Routers = () => {
     return <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="shop" element={<Shop />} />
-        <Route path="cart" element={<Cart />} />
-        <Route path="checkout" element={<Checkout />} />
-        <Route path="product/:id" element={<ProductDetails />} />
+        <Route path="/MusicCenterProject/" element={<Home />} />
+        <Route path="/MusicCenterProject/shop" element={<Shop />} />
+        <Route path="/MusicCenterProject/cart" element={<Cart />} />
+        <Route path="/MusicCenterProject/checkout" element={<Checkout />} />
+        <Route path="/MusicCenterProject/product/:id" element={<ProductDetails />} />
     </Routes>
 };
 

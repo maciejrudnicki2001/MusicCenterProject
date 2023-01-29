@@ -22,13 +22,13 @@ const Header = () => {
 
                     <ul className={"menu"}>
                         <li className={"menu-item"}>
-                            <NavLink to='/'>Home</NavLink>
+                            <NavLink to='/MusicCenterProject/'>Home</NavLink>
                         </li>
                         <li className={"menu-item"}>
-                            <NavLink to='/checkout'>Checkout</NavLink>
+                            <NavLink to='/MusicCenterProject/checkout'>Checkout</NavLink>
                         </li>
                         <li className={"menu-item"}>
-                            <NavLink to='/cart'>Cart</NavLink>
+                            <NavLink to='/MusicCenterProject/cart'>Cart</NavLink>
                         </li>
                     </ul>
 

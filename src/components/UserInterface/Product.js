@@ -10,7 +10,7 @@ const Product = ({item}) => {
                     <img src={item.image} alt='product'/>
                 </div>
                 <h3 className='product__name'>
-                    <Link to={`/product/${item.id}`}>{item.name}</Link>
+                    <Link to={`/MusicCenterProject/product/${item.id}`}>{item.name}</Link>
                 </h3>
                 <div className='product__short_description'>
                     <span>{item.short_description}</span>
